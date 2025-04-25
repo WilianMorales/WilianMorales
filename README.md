@@ -22,11 +22,9 @@
 <p align="left">
   <i><b>Connect with me:</b></i> &nbsp;
   <a href = 'https://github.com/WilianMorales' target="_blank">
-    <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
-  </a>&nbsp;
+    <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/wilian-moralesch/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/wilian-moralesch" height="32" width="32" />
-  </a>&nbsp;
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/wilian-moralesch" height="32" width="32" /></a>&nbsp;
   <a href="https://dev.to/wilianmorales" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="wiliandev" height="36" width="40" />
   </a>
