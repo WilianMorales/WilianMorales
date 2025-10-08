@@ -1,26 +1,26 @@
 <div align="center">
-  <h1> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Wilian Morales <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "35px"> </h1>
+  <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> ¡Bienvenido! Soy Wilian Morales <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "35px"> </h1>
 </div>
 
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?color=23799&lines=Front-End+D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛+Jr.;<Programmer/>!%20|%20Web%20Dev%20|Angular%20Dev%20Jr.;Always%20learning%20new%20things!&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?color=23799&lines=Front-End+D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛+Jr.;<Programador/>!%20|%20Web%20Dev%20|Angular%20Dev%20Jr.;Siempre%20estoy%20en%20constante%20aprendizaje!&center=true&width=500&height=50">
   </a>
 </p>
 
 <img src='https://i.ibb.co/h8HTwMX/code.gif' align='right' width="30%" />
 
-#### ***About me ....***
->- I'm front **Perú**.
->- I'm a graduate of the **Computing and Informatics** program.
->- Currently learning Web Development and other programming languages, but my specialty is `Front-End` development. :computer:
->- I have experience in web technologies such as **Angular +12**, **TypeScript**, **Bootstrap**, **Git and GitHub**, etc. I also have basic knowledge in `Back-End`. 
->- I'm currently learning: **.Net**, **Spring Boot** and **Node.js**.
->- This is [MY PORTFOLIO](https://wilianmorales.github.io/my-portfolio).
->- Always **learning new things**.
+#### ***Acerca de mí ....***
+>- Soy de **Trujillo, Perú**.
+>- Egresado de la carrera de **Computación e Informática**. :computer:
+>- Mi enfoque principal es el **Desarrollo Front-End**, aunque también tengo experiencia en **Back-End** y **Bases de Datos**.
+>- He trabajado en el desarrollo de **aplicaciones web modernas** utilizando **Angular +12**, **TypeScript**, **Bootstrap**, **TailwindCss**, y herramientas de control de versiones como **Git y GitHub**.
+>- Actualmente me encuentro reforzando y ampliando mis conocimientos en: **.Net**, **Spring Boot** y **Node.js**, con el objetivo de convertirme en un desarrollador Full Stack.
+>- Este es [MI PORTAFOLIO](https://wilianmorales.github.io/my-portfolio).
+>- Siempre estoy en **constante aprendizaje** y **explorando nuevas tecnologías**.
 
 <p align="left">
-  <i><b>Connect with me:</b></i> &nbsp;
+  <i><b>Contácte conmigo:</b></i> &nbsp;
   <a href = 'https://github.com/WilianMorales' target="_blank">
     <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/wilian-moralesch/" target="_blank">
@@ -33,7 +33,7 @@
 <hr/>
 
 <div align="center">
-  <h1> My Skills </h1>
+  <h1> Mis Skills </h1>
 </div>
 
 <table align="center">
