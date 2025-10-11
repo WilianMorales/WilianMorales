@@ -11,13 +11,13 @@
 <img src='https://i.ibb.co/h8HTwMX/code.gif' align='right' width="30%" />
 
 #### ***Acerca de mí ....***
->- Soy de **Trujillo, Perú**.
->- Egresado de la carrera de **Computación e Informática**. :computer:
->- Mi enfoque principal es el **Desarrollo Front-End**, aunque también tengo experiencia en **Back-End** y **Bases de Datos**.
->- He trabajado en el desarrollo de **aplicaciones web modernas** utilizando **Angular +12**, **TypeScript**, **Bootstrap**, **TailwindCss**, y herramientas de control de versiones como **Git y GitHub**.
->- Actualmente me encuentro reforzando y ampliando mis conocimientos en: **.Net**, **Spring Boot** y **Node.js**, con el objetivo de convertirme en un desarrollador Full Stack.
->- Este es [MI PORTAFOLIO](https://wilianmorales.github.io/my-portfolio).
->- Siempre estoy en **constante aprendizaje** y **explorando nuevas tecnologías**.
+>- Soy un **Desarrollador Front-End** de Trujillo, Perú, con sólida experiencia en la creación de **aplicaciones web modernas y responsivas**.
+>- Egresado de la carrera de **Computación e Informática**.
+>- Me especializo en **Desarrollo Front-End** con **Angular +12, TypeScript, HTML, CSS, Bootstrap y Tailwind CSS**, creando interfaces de usuario limpias, eficientes y optimizadas.
+>- También tengo conocimientos en tecnologías **Back-End** como **Node.js, .NET y Spring Boot**, y en gestión de versiones con **Git y GitHub**.
+>- Busco oportunidades como **desarrollador web o Front-end de forma remota**, con el objetivo de seguir creciendo profesionalmente.
+>- Me encuentro en constante aprendizaje, explorando nuevas tecnologías y buenas prácticas de desarrollo.
+>- Portafolio Web: https://wilianmorales.github.io/my-portfolio
 
 <p align="left">
   <i><b>Contácte conmigo:</b></i> &nbsp;
