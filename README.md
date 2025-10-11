@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<img src='https://i.ibb.co/h8HTwMX/code.gif' align='right' width="30%" />
+<img src='https://i.imgur.com/ppuB8yk.gif' align='right' width="30%" />
 
 #### ***Acerca de mí ....***
 >- Soy un **Desarrollador Front-End** de Trujillo, Perú, con sólida experiencia en la creación de **aplicaciones web modernas y responsivas**.
@@ -20,7 +20,7 @@
 >- Portafolio Web: https://wilianmorales.github.io/my-portfolio
 
 <p align="left">
-  <i><b>Contácte conmigo:</b></i> &nbsp;
+  <i><b>Contáctate conmigo:</b></i> &nbsp;
   <a href = 'https://github.com/WilianMorales' target="_blank">
     <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/wilian-moralesch/" target="_blank">
@@ -143,6 +143,12 @@
         <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-bitbucket-is-a-web-based-version-control-repository-hosting-service-logo-color-tal-revivo.png" width="48" height="48" alt="bitbucket" />
       </a>
       <br>Bitbucket
+    </td>
+    <td align="center" width="96">
+      <a href="#Cloudflare">
+        <img src="https://i.imgur.com/D1Dcf1M.png" width="48" height="48" alt="Cloudflare" />
+      </a>
+      <br>Cloudflare
     </td>
   </tr>
 </table>
